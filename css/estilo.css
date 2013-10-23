@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    font: Verdana;
+    text-align: center;
+}
+#pagina{
+    width: 850px;
+    margin: 0 auto;
+}
+#login{
+    display: none;
+    margin-top:30px;
+    padding:40px 0;
+    background-color: #0972a5;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+#login input{
+    font-size: 20px;
+    text-align: center;
+}
+#contenido{
+    display: none;
+}
